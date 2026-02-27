@@ -10,6 +10,11 @@ This MySQL project demonstrates data cleaning techniques. A real-world layoffs d
 2. standardize data and fix errors<br>
 3. Look at null values and see what<br>
 4. remove any columns and rows that are not necessary - few ways<br>
+5.<ul> <b> EDA </b> </ul>
+ <li> Here we are jsut going to explore the data and find trends or patterns or anything interesting like outliers </li>
+ <li> normally when you start the EDA process you have some idea of what you're looking for </li>
+ <li> with this info we are just going to look around and see what we find! </li>
+
 
 <br> DATASET is taken From keggle <br>
 <b>  https://www.kaggle.com/datasets/swaptr/layoffs-2022 </b>
